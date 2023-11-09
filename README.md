@@ -24,17 +24,17 @@ Here, User has to Login To book a car. The user can search for cars easily and b
 
 ### Features 
 
-Login/Register System. (`<br>`), 
-Easy Bookings. (`<br>`), 
-Create/Manage Brands. (`<br>`), 
-Post/Manage Vehicle. (`<br>`), 
-Manage Bookings, Testimonials, Contact Queries, Pages. (`<br>`), 
+Login/Register System. `<br>` 
+Easy Bookings.  `<br>`  
+Create/Manage Brands. `<br>` 
+Post/Manage Vehicle.  `<br>` 
+Manage Bookings, Testimonials, Contact Queries, Pages.  `<br>` 
 Admin dashboard,etc.
 
 
 
 ### How To Run?
 You’ll need XAMP Server or WAMP Server. Put the file inside “c:/wamp/www/” or “c:/xampp/htdocs/”. Go To “localhost/phpmyadmin” in any browser and create Database (name according to SQL file).In that Database, Import the SQL file and finally go to URL: “http://localhost/file_name/phpfilename”
-Don’t Forget To create a database and import SQL file to run. (`<br>`), 
+Don’t Forget To create a database and import SQL file to run.  `<br>`  
 Admin Login and Password : `admin:-huzaifkhan` - `password:-huzaifkhan`
 
