@@ -7,7 +7,10 @@ It is a simple Car Rental Database Management System.
 
 
 ### Screenshots
+
+### admin dashboard
 ![](assets/images/dashboard.png)
+### car booking
 ![](assets/images/booking1.png)
 ![](assets/images/booking2.png)
 ![](assets/images/booking3.png)
